@@ -51,7 +51,9 @@ Additionally, the following tools are included to help work with Ninja programs:
    ```bash
    gcc -o njvm njvm.c
 
-2. **executing the machine**
-   In the command line enter  "./njvm --help" in order to 
-   learn how to use the machine.   
+2. **executing the machine**   
+   In order to execute the machine and learn how to use it , In the command line enter:
+   ```bash
+   ./njvm --help 
+    
 
